@@ -243,7 +243,7 @@ export default {
 
 <style lang="scss" scoped>
 .header-link {
-  @apply flex justify-center items-center h-full cursor-pointer w-32;
+  @apply flex justify-center items-center h-full cursor-pointer w-32 text-gray-700;
 
   &.active {
     border-bottom-width: 3px;
