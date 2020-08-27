@@ -10,12 +10,14 @@ module.exports = {
       white: "#ffffff",
       black: "#000000",
       red: "#F02849",
+      blue: "#3578E5",
       "gray-100": "#F0F2F5",
       "gray-200": "#050505",
       "gray-300": "#f0f2f5",
       "gray-400": "#8A8D91",
       "gray-500": "#8c8c8c",
-      "gray-600": "#E4E6EB"
+      "gray-600": "#E4E6EB",
+      "gray-700": "#65676b"
     },
     opacity: {
       "0": "0",
